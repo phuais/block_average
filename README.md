@@ -9,3 +9,5 @@ http://sachinashanbhag.blogspot.com/2013/08/block-averaging-estimating-uncertain
 https://www.quora.com/What-is-the-block-average-method
 
 http://realerthinks.com/block-averaging-bootstrapping-estimating-mean-autocorrelated-data/
+
+PD: Iván Felsztyna motivated the programming
