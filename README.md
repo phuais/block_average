@@ -10,4 +10,6 @@ https://www.quora.com/What-is-the-block-average-method
 
 http://realerthinks.com/block-averaging-bootstrapping-estimating-mean-autocorrelated-data/
 
+Details on the usage of the function can be seen in the comments of the script.
+
 PS: Iván Felsztyna motivated the coding
