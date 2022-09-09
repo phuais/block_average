@@ -29,7 +29,7 @@ block_average <- function(x, block_sizes = NULL, n_blocks = NULL){
   # Standard deviation function (for populations)
   sd.p <- function(vec){ sd(vec)*sqrt((length(vec) - 1)/length(vec)) }
   
-  if(!is.numeric(n_blocks)) stop("x must be a numeric vector")
+  if(!is.numeric(x)) stop("x must be a numeric vector")
   
   data_length <- length(x)
   
